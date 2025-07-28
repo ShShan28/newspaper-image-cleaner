@@ -1,2 +1,1 @@
-# newspaper-image-cleaner
-A professional web tool to clean, crop, rotate, and export scanned newspaper images as high-quality black &amp; white PDFs.
+Newspaper Image Cleaner is a browser-based tool designed to restore and digitize old newspaper scans. It automatically removes yellowish backgrounds, enhances contrast, allows 360° rotation, cropping, and lets you export each cleaned image as an individual PDF. Built with accessibility, dark mode, and responsive design in mind — no installation needed.
